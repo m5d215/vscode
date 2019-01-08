@@ -1,0 +1,17 @@
+[
+  // Edit with Shell Command
+  {
+    "key": "ctrl+r ctrl+r",
+    "command": "editWithShell.runCommand",
+    "when": "editorTextFocus"
+  },
+
+  // Disabled
+  { "key": "ctrl+numpad_add" },
+  { "key": "ctrl+shift+oem_plus" },
+  { "key": "ctrl+oem_plus" },
+  { "key": "ctrl+numpad_subtract" },
+  { "key": "ctrl+shift+oem_minus" },
+  { "key": "ctrl+oem_minus" },
+  { "key": "ctrl+numpad0" }
+]

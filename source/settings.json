@@ -1,0 +1,84 @@
+{
+  // Editor
+  "editor.fontFamily": "'Fira Code', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.minimap.maxColumn": 160,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.renderControlCharacters": true,
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "boundary",
+  "editor.suggest.localityBonus": true,
+
+  // Workbench
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.editor.restoreViewState": false,
+  "workbench.enableExperiments": false,
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.feedback.visible": false,
+
+  // Window
+  "window.title": "${dirty}${activeEditorLong}",
+  "window.titleBarStyle": "custom",
+
+  // Files
+  "files.eol": "\n",
+
+  // Explorer
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.openEditors.visible": 0,
+
+  // TypeScript
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // Terminal
+  "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+  // Telemetry
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+
+  // markdownlint
+  "markdownlint.config": {
+    "MD007": false,
+    "MD013": false
+  },
+
+  // Power Mode
+  "powermode.enabled": true,
+  "powermode.enableShake": false,
+  "powermode.enableStatusBarComboCounter": false,
+  "powermode.enableStatusBarComboTimer": false,
+  "powermode.presets": "particles",
+
+  // Prettier
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+
+  // Material Theme configuration
+  "materialTheme.accent": "Orange",
+
+  // Partial Diff
+  "partialDiff.enableTelemetry": false,
+
+  // Languages
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  }
+}
