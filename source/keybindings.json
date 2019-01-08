@@ -1,11 +1,4 @@
 [
-  // Edit with Shell Command
-  {
-    "key": "ctrl+r ctrl+r",
-    "command": "editWithShell.runCommand",
-    "when": "editorTextFocus"
-  },
-
   // Disabled
   { "key": "ctrl+numpad_add" },
   { "key": "ctrl+shift+oem_plus" },
