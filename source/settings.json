@@ -44,7 +44,7 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
 
   // Terminal
-  "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+  "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 
   // Telemetry
