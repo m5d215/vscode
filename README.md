@@ -2,19 +2,21 @@
 
 ## Installation
 
-### Linux
+### macOS
 
 ```sh
-TODO
+curl https://setup-vscode.now.sh | sh -
 ```
 
 ### Windows
 
-```powershell
-powershell -command start-process -verb runas .\install.bat
+```sh
+git clone https://github.com/m5d215/vscode.git ~/.ghq/github.com/m5d215/vscode
+cd ~/.ghq/github.com/m5d215/vscode
+powershell -Command Start-Process -Verb runas install.bat
 ```
 
-## Extensions
+### Extensions
 
 ```sh
 xargs -n 1 code --install-extension <extensions.txt
