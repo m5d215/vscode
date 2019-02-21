@@ -21,7 +21,7 @@
   "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "workbench.editor.restoreViewState": false,
   "workbench.enableExperiments": false,
-  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
   "workbench.statusBar.feedback.visible": false,
 
