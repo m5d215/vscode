@@ -3,13 +3,13 @@ CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 EditorConfig.EditorConfig
-eg2.tslint
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
 mechatroner.rainbow-csv
 mikestead.dotenv
 MS-CEINTL.vscode-language-pack-ja
 ms-python.python
+ms-vscode.vscode-typescript-tslint-plugin
 PeterJausovec.vscode-docker
 pnp.polacode
 robertohuertasm.vscode-icons

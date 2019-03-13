@@ -1,4 +1,13 @@
 [
+  {
+    "key": "alt+f",
+    "command": "editor.action.codeAction",
+    "args": {
+      "kind": "source.fixAll.tslint",
+      "apply": "first"
+    }
+  },
+
   // Disabled
   { "key": "ctrl+numpad_add" },
   { "key": "ctrl+shift+oem_plus" },
