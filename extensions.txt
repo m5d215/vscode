@@ -5,6 +5,7 @@ dbaeumer.vscode-eslint
 EditorConfig.EditorConfig
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
+jpoissonnier.vscode-styled-components
 mechatroner.rainbow-csv
 mikestead.dotenv
 MS-CEINTL.vscode-language-pack-ja
