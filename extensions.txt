@@ -9,13 +9,11 @@ jpoissonnier.vscode-styled-components
 mechatroner.rainbow-csv
 mikestead.dotenv
 MS-CEINTL.vscode-language-pack-ja
-ms-python.python
 ms-vscode.vscode-typescript-tslint-plugin
 PeterJausovec.vscode-docker
 pnp.polacode
-robertohuertasm.vscode-icons
 ryu1kn.partial-diff
 timonwong.shellcheck
-WakaTime.vscode-wakatime
+vscode-icons-team.vscode-icons
 wayou.vscode-todo-highlight
 yzhang.markdown-all-in-one
