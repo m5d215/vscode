@@ -24,6 +24,7 @@
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
   "workbench.statusBar.feedback.visible": false,
+  "breadcrumbs.enabled": false,
 
   // Window
   "window.title": "${dirty}${activeEditorLong}",
@@ -36,6 +37,13 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
+
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
 
   // TypeScript
   "javascript.preferences.importModuleSpecifier": "non-relative",
