@@ -82,6 +82,10 @@
   // Partial Diff
   "partialDiff.enableTelemetry": false,
 
+  // PlantUML
+  "plantuml.render": "PlantUMLServer",
+  "plantuml.server": "http://localhost:8080",
+
   // Languages
   "[javascript]": {
     "editor.tabSize": 2,
