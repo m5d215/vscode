@@ -1,4 +1,3 @@
-44886.polacode-44886
 bierner.emojisense
 CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
@@ -9,10 +8,10 @@ esbenp.prettier-vscode
 jebbs.plantuml
 mechatroner.rainbow-csv
 mikestead.dotenv
+ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
 ms-vscode.vscode-typescript-tslint-plugin
-PeterJausovec.vscode-docker
-ryu1kn.partial-diff
+pnp.polacode
 timonwong.shellcheck
 vscode-icons-team.vscode-icons
 wayou.vscode-todo-highlight
