@@ -75,10 +75,6 @@
   "powermode.enableStatusBarComboTimer": false,
   "powermode.presets": "particles",
 
-  // Prettier
-  "prettier.semi": false,
-  "prettier.singleQuote": true,
-
   // Material Theme configuration
   "materialTheme.accent": "Orange",
 
