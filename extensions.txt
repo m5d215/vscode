@@ -1,4 +1,6 @@
+aaron-bond.better-comments
 bierner.emojisense
+bungcip.better-toml
 CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
@@ -7,12 +9,15 @@ Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
 jebbs.plantuml
 jq-syntax-highlighting.jq-syntax-highlighting
+marp-team.marp-vscode
 mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
 ms-vscode.vscode-typescript-tslint-plugin
+ms-vsliveshare.vsliveshare
 pnp.polacode
+rust-lang.rust
 timonwong.shellcheck
 vscode-icons-team.vscode-icons
 wayou.vscode-todo-highlight
