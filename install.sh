@@ -3,7 +3,7 @@
 set -e
 set -u
 
-ROOT=${ROOT:-~/.ghq/github.com/m5d215/vscode}
+ROOT=${ROOT:-~/src/github.com/m5d215/vscode}
 
 [ -d "$ROOT" ] || git clone https://github.com/m5d215/vscode.git "$ROOT"
 
