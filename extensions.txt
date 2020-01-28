@@ -1,4 +1,5 @@
 aaron-bond.better-comments
+adpyke.codesnap
 bierner.emojisense
 bungcip.better-toml
 CoenraadS.bracket-pair-colorizer
@@ -16,7 +17,6 @@ ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
 ms-vscode.vscode-typescript-tslint-plugin
 ms-vsliveshare.vsliveshare
-pnp.polacode
 rust-lang.rust
 timonwong.shellcheck
 vscode-icons-team.vscode-icons
