@@ -15,7 +15,6 @@ mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
-ms-vscode.vscode-typescript-tslint-plugin
 ms-vsliveshare.vsliveshare
 rust-lang.rust
 timonwong.shellcheck
