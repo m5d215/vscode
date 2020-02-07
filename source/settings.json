@@ -18,10 +18,10 @@
   "editor.suggest.localityBonus": true,
 
   // Workbench
-  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
   "workbench.editor.restoreViewState": false,
   "workbench.enableExperiments": false,
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.startupEditor": "none",
   "workbench.statusBar.feedback.visible": false,
   "breadcrumbs.enabled": false,
