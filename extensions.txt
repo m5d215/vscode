@@ -1,7 +1,6 @@
 aaron-bond.better-comments
 adpyke.codesnap
 bierner.emojisense
-bungcip.better-toml
 CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
@@ -17,9 +16,9 @@ mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
 ms-vsliveshare.vsliveshare
-rust-lang.rust
 timonwong.shellcheck
-vscode-icons-team.vscode-icons
 wayou.vscode-todo-highlight
 yzhang.markdown-all-in-one
