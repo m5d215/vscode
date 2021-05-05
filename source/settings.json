@@ -20,6 +20,9 @@
   // Workbench
   "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
   "workbench.editor.restoreViewState": false,
+  "workbench.editor.decorations.colors": true,
+  "workbench.editor.decorations.badges": true,
+  "workbench.editor.untitled.hint": "hidden",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.startupEditor": "none",
@@ -27,6 +30,7 @@
   "breadcrumbs.enabled": false,
 
   // Window
+  "window.dialogStyle": "custom",
   "window.title": "${dirty}${activeEditorLong}",
   "window.titleBarStyle": "custom",
 
@@ -48,6 +52,9 @@
   // Emmet
   "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
 
+  // LiveShare
+  "liveshare.authenticationProvider": "GitHub",
+
   // TypeScript
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
@@ -67,19 +74,6 @@
     "MD007": false,
     "MD013": false
   },
-
-  // Power Mode
-  "powermode.enabled": true,
-  "powermode.enableShake": false,
-  "powermode.enableStatusBarComboCounter": false,
-  "powermode.enableStatusBarComboTimer": false,
-  "powermode.presets": "particles",
-
-  // Material Theme configuration
-  "materialTheme.accent": "Orange",
-
-  // Partial Diff
-  "partialDiff.enableTelemetry": false,
 
   // PlantUML
   "plantuml.render": "PlantUMLServer",
@@ -111,5 +105,8 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
   }
 }
