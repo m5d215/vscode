@@ -4,14 +4,15 @@ bierner.emojisense
 CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
+denoland.vscode-deno
 EditorConfig.EditorConfig
 Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
 equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
+GitHub.remotehub
 jebbs.plantuml
 jq-syntax-highlighting.jq-syntax-highlighting
-marp-team.marp-vscode
 mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-docker
