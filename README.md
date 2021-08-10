@@ -5,7 +5,7 @@
 ### macOS
 
 ```sh
-curl https://setup-vscode.now.sh | sh -
+curl https://setup-vscode.vercel.app | sh -
 ```
 
 ### Windows
