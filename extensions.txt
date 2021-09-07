@@ -1,7 +1,6 @@
 aaron-bond.better-comments
 adpyke.codesnap
 bierner.emojisense
-CoenraadS.bracket-pair-colorizer
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno

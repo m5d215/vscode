@@ -1,5 +1,6 @@
 {
   // Editor
+  "editor.bracketPairColorization.enabled": true,
   "editor.fontFamily": "'FiraCode Nerd Font', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
@@ -16,6 +17,7 @@
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "boundary",
   "editor.suggest.localityBonus": true,
+  "editor.suggest.preview": true,
 
   // Workbench
   "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
@@ -26,12 +28,10 @@
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.startupEditor": "none",
-  "workbench.statusBar.feedback.visible": false,
   "breadcrumbs.enabled": false,
 
   // Window
   "window.dialogStyle": "custom",
-  "window.title": "${dirty}${activeEditorLong}",
   "window.titleBarStyle": "custom",
 
   // Files
@@ -49,21 +49,17 @@
     "typescriptreact"
   ],
 
+  // Security
+  "security.workspace.trust.untrustedFiles": "open",
+
   // Emmet
   "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
-
-  // LiveShare
-  "liveshare.authenticationProvider": "GitHub",
 
   // TypeScript
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.quoteStyle": "single",
   "typescript.updateImportsOnFileMove.enabled": "always",
-
-  // Terminal
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 
   // Telemetry
   "telemetry.enableCrashReporter": false,
@@ -105,8 +101,5 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[yaml]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
   }
 }
