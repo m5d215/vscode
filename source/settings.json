@@ -62,8 +62,7 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
 
   // Telemetry
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
+  "telemetry.telemetryLevel": "off",
 
   // markdownlint
   "markdownlint.config": {
