@@ -65,6 +65,13 @@
   "typescript.preferences.quoteStyle": "single",
   "typescript.updateImportsOnFileMove.enabled": "always",
 
+  // Deno
+  "deno.codeLens.implementations": true,
+  "deno.codeLens.references": true,
+  "deno.codeLens.referencesAllFunctions": true,
+  "deno.codeLens.test": true,
+  "deno.suggest.completeFunctionCalls": true,
+
   // Telemetry
   "telemetry.telemetryLevel": "off",
 
