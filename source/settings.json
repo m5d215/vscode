@@ -83,7 +83,7 @@
 
   // PlantUML
   "plantuml.render": "PlantUMLServer",
-  "plantuml.server": "http://localhost:8080",
+  "plantuml.server": "https://www.plantuml.com/plantuml",
 
   // CodeSnap
   "codesnap.showWindowControls": false,
