@@ -119,5 +119,6 @@
   "github.copilot.enable": {
     "*": true
   },
+  "redhat.telemetry.enabled": false,
   "inline-parameters.enabled": false
 }

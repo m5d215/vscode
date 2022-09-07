@@ -7,6 +7,7 @@ bmewburn.vscode-intelephense-client
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 denoland.vscode-deno
+eamodio.gitlens
 EditorConfig.EditorConfig
 emeraldwalk.RunOnSave
 Equinusocio.vsc-community-material-theme
@@ -15,6 +16,7 @@ equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
 gera2ld.markmap-vscode
 GitHub.copilot
+GitHub.remotehub
 jebbs.plantuml
 jq-syntax-highlighting.jq-syntax-highlighting
 liamhammett.inline-parameters
@@ -22,6 +24,9 @@ mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ja
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.remote-repositories
 ms-vsliveshare.vsliveshare
 redhat.vscode-yaml
 timonwong.shellcheck
