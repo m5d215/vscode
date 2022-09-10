@@ -59,8 +59,10 @@
   "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
 
   // TypeScript
+  "javascript.format.semicolons": "remove",
   "javascript.inlayHints.parameterNames.enabled": "all",
   "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.format.semicolons": "remove",
   "typescript.inlayHints.parameterNames.enabled": "all",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.quoteStyle": "single",
