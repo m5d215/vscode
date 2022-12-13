@@ -4,6 +4,11 @@
 
   { "key": "alt+f", "command": "eslint.executeAutofix" },
 
+  { "key": "ctrl+shift+left", "command": "workbench.action.navigateBack",
+                              "when": "canNavigateBack" },
+  { "key": "ctrl+shift+right", "command": "workbench.action.navigateForward",
+                               "when": "canNavigateForward" },
+
   // Disabled
   { "key": "ctrl+numpad_add" },
   { "key": "ctrl+shift+oem_plus" },
