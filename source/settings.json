@@ -77,9 +77,12 @@
 
   // Telemetry
   "telemetry.telemetryLevel": "off",
+  "intelephense.telemetry.enabled": false,
+  "redhat.telemetry.enabled": false,
 
   // markdownlint
   "markdownlint.config": {
+    "MD004": false,
     "MD007": false,
     "MD013": false
   },
@@ -88,8 +91,17 @@
   "plantuml.render": "PlantUMLServer",
   "plantuml.server": "https://www.plantuml.com/plantuml",
 
+  // Prettier SQL VSCode
+  "Prettier-SQL.commaPosition": "before",
+  "Prettier-SQL.keywordCase": "upper",
+
   // CodeSnap
   "codesnap.showWindowControls": false,
+
+  // TODO Highlight
+  "todohighlight.keywords": [
+    "DEBUG:",
+  ],
 
   // Languages
   "[javascript]": {
@@ -118,9 +130,10 @@
   "[php]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
   "github.copilot.enable": {
     "*": true
-  },
-  "redhat.telemetry.enabled": false,
-  "inline-parameters.enabled": false
+  }
 }
