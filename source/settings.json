@@ -1,6 +1,7 @@
 {
   // Editor
   "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "'FiraCode Nerd Font', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
@@ -22,11 +23,11 @@
   "editor.suggest.preview": true,
 
   // Workbench
-  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+  "workbench.colorTheme": "Material Theme Ocean",
   "workbench.editor.restoreViewState": false,
   "workbench.editor.decorations.colors": true,
   "workbench.editor.decorations.badges": true,
-  "workbench.editor.untitled.hint": "hidden",
+  "workbench.editor.empty.hint": "hidden",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "eq-material-theme-icons-ocean",
   "workbench.tree.indent": 16,
@@ -44,6 +45,9 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
+
+  // Terminal
+  "terminal.integrated.enableImages": true,
 
   "eslint.validate": [
     "javascript",
@@ -63,7 +67,7 @@
   "javascript.inlayHints.parameterNames.enabled": "all",
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.format.semicolons": "remove",
-  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.enabled": "literals",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.quoteStyle": "single",
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -79,6 +83,9 @@
   "telemetry.telemetryLevel": "off",
   "intelephense.telemetry.enabled": false,
   "redhat.telemetry.enabled": false,
+
+  // Inline Parameters
+  "inline-parameters.enabled": false,
 
   // markdownlint
   "markdownlint.config": {
@@ -101,38 +108,33 @@
   // TODO Highlight
   "todohighlight.keywords": [
     "DEBUG:",
+    "DEPRECATED:"
   ],
+
+  // Power Mode
+  "powermode.enabled": true,
+  "powermode.shake.enabled": false,
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timerEnabled": "hide",
 
   // Languages
   "[javascript]": {
-    "editor.tabSize": 2,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.tabSize": 2
   },
   "[typescript]": {
-    "editor.tabSize": 2,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.tabSize": 2
   },
   "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "[php]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.fontFamily": "'UDEV Gothic NFLG', monospace"
   },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+
   "github.copilot.enable": {
     "*": true
   }
