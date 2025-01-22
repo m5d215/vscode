@@ -48,6 +48,7 @@
 
   // Terminal
   "terminal.integrated.enableImages": true,
+  "terminal.integrated.fontLigatures": true,
 
   "eslint.validate": [
     "javascript",
