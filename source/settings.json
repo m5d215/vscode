@@ -21,15 +21,12 @@
   "editor.renderWhitespace": "boundary",
   "editor.suggest.localityBonus": true,
   "editor.suggest.preview": true,
-
-  // Workbench
-  "workbench.colorTheme": "Material Theme Ocean",
   "workbench.editor.restoreViewState": false,
   "workbench.editor.decorations.colors": true,
   "workbench.editor.decorations.badges": true,
   "workbench.editor.empty.hint": "hidden",
   "workbench.enableExperiments": false,
-  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.indent": 16,
   "workbench.startupEditor": "none",
   "breadcrumbs.enabled": false,
@@ -49,7 +46,6 @@
   // Terminal
   "terminal.integrated.enableImages": true,
   "terminal.integrated.fontLigatures": true,
-
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -72,13 +68,6 @@
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.quoteStyle": "single",
   "typescript.updateImportsOnFileMove.enabled": "always",
-
-  // Deno
-  "deno.codeLens.implementations": true,
-  "deno.codeLens.references": true,
-  "deno.codeLens.referencesAllFunctions": true,
-  "deno.codeLens.test": true,
-  "deno.suggest.completeFunctionCalls": true,
 
   // Telemetry
   "telemetry.telemetryLevel": "off",
@@ -118,6 +107,12 @@
   "powermode.combo.counterEnabled": "hide",
   "powermode.combo.timerEnabled": "hide",
 
+  // GitHub Copilot
+  "github.copilot.enable": {
+    "*": true
+  },
+  "github.copilot.nextEditSuggestions.enabled": true,
+
   // Languages
   "[javascript]": {
     "editor.tabSize": 2
@@ -129,14 +124,13 @@
     "editor.defaultFormatter": "yzhang.markdown-all-in-one",
     "editor.fontFamily": "'UDEV Gothic NFLG', monospace"
   },
+  "[csv]": {
+    "editor.fontFamily": "'UDEV Gothic NFLG', monospace",
+  },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  },
-
-  "github.copilot.enable": {
-    "*": true
   }
 }
