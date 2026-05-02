@@ -2,17 +2,14 @@
 
 ## Installation
 
-### macOS
-
 ```sh
-curl https://setup-vscode.vercel.app | sh -
-```
+git clone https://github.com/m5d215/vscode.git ~/src/github.com/m5d215/vscode
+cd ~/src/github.com/m5d215/vscode
 
-### Windows
+# Linux/macOS
+./install.sh
 
-```sh
-git clone https://github.com/m5d215/vscode.git ~/.ghq/github.com/m5d215/vscode
-cd ~/.ghq/github.com/m5d215/vscode
+# Windows
 powershell -Command Start-Process -Verb runas install.bat
 ```
 
