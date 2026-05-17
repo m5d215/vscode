@@ -21,6 +21,12 @@
   "editor.renderWhitespace": "boundary",
   "editor.suggest.localityBonus": true,
   "editor.suggest.preview": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      { "scope": "heading.2.markdown", "settings": { "foreground": "#E06C75", "fontStyle": "bold" } },
+      { "scope": "heading.3.markdown", "settings": { "foreground": "#E5C07B", "fontStyle": "bold" } }
+    ]
+  },
   "workbench.editor.restoreViewState": false,
   "workbench.editor.decorations.colors": true,
   "workbench.editor.decorations.badges": true,
@@ -133,5 +139,6 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "editor.accessibilitySupport": "off"
 }
